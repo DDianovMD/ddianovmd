@@ -10,11 +10,11 @@
 <div align="left">
   <i>Here you can check my finished courses:</i> <br>
   <ul>
-    <li><a href="https://softuni.bg/Certificates/Details/124135/3d3123a4">Programming basics - January 2022</a></li>
-    <li><a href="https://softuni.bg/Certificates/Details/139286/b2e99357">Programming fundamentals with C# - May 2022</a></li>
-    <li><a href="https://softuni.bg/Certificates/Details/143931/26bdf214">C# Advanced - September 2022</a></li>
-    <li><a href="https://softuni.bg/Certificates/Details/150718/e61b06e1">C# OOP - October 2022</a></li>
-    <li><a href="https://softuni.bg/Certificates/Details/157870/b2c8de83">MS SQL - January 2023</a></li>
+    <li><a href="https://softuni.bg/Certificates/Details/124135/3d3123a4" target="_blank">Programming basics - January 2022</a></li>
+    <li><a href="https://softuni.bg/Certificates/Details/139286/b2e99357" target="_blank">Programming fundamentals with C# - May 2022</a></li>
+    <li><a href="https://softuni.bg/Certificates/Details/143931/26bdf214" target="_blank">C# Advanced - September 2022</a></li>
+    <li><a href="https://softuni.bg/Certificates/Details/150718/e61b06e1" target="_blank">C# OOP - October 2022</a></li>
+    <li><a href="https://softuni.bg/Certificates/Details/157870/b2c8de83" target="_blank">MS SQL - January 2023</a></li>
   </ul> <br>
 
 - 👯 I’m looking to collaborate with front-end developers
