@@ -15,6 +15,7 @@
     <li><a href="https://softuni.bg/Certificates/Details/143931/26bdf214" target="_blank">C# Advanced - September 2022</a></li>
     <li><a href="https://softuni.bg/Certificates/Details/150718/e61b06e1" target="_blank">C# OOP - October 2022</a></li>
     <li><a href="https://softuni.bg/Certificates/Details/157870/b2c8de83" target="_blank">MS SQL - January 2023</a></li>
+    <li><a href="https://softuni.bg/certificates/details/164902/de7ef58d" target="_blank">Entity Framework Core - February 2023</a></li>
   </ul> <br>
 
 - 👯 I’m looking to collaborate with front-end developers
