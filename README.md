@@ -6,7 +6,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=ddianovmd" height="150" alt="languages graph"  />
 </div> <br>
 
-<div align="left"> <b> I’m currently learning <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="20" width="30"/> @ <i>SoftUni</i></b></div> <br>
+<div align="left"> <b> I’m currently working as a Junior .NET developer @  <i>Sharp IT Ltd</i>. </b></div> 
+<br>
 <div align="left">
   <i>Here you can check my finished courses:</i> <br>
   <ul>
@@ -16,6 +17,7 @@
     <li><a href="https://softuni.bg/Certificates/Details/150718/e61b06e1" target="_blank">C# OOP - October 2022</a></li>
     <li><a href="https://softuni.bg/Certificates/Details/157870/b2c8de83" target="_blank">MS SQL - January 2023</a></li>
     <li><a href="https://softuni.bg/certificates/details/164902/de7ef58d" target="_blank">Entity Framework Core - February 2023</a></li>
+    <li><a href="https://softuni.bg/certificates/details/182187/52b82866" target="_blank">ASP.NET Advanced - June 2023</a></li>
   </ul> <br>
 
 - 👯 I’m looking to collaborate with front-end developers
